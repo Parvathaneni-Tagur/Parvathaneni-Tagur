@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-...I'm passionate about open-source and Full Stack Development. 📫 Feel free to reach out to me if you'd like to discuss a project, explore a collaboration, or just chat about technology. You can contact me at parvathaneni.tagur@gmail.com 🏆 Looking forward to creating amazing things together! Let's build the web of the future. 🚀
+...I'm passionate about open-source and Full Stack Development.
+📫 Feel free to reach out to me if you'd like to discuss a project, explore a collaboration, or just chat about technology. You can contact me at parvathaneni.tagur@gmail.com 
+🏆 Looking forward to creating amazing things together! Let's build the web of the future. 🚀
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [parvathaneni.tagur@gmail.com](mailto:parvathaneni.tagur@gmail.com)
